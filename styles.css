@@ -34,17 +34,13 @@ h5 {
 /*page and card styling*/
 
 .coffee-h1 {
-text-align: center;
-margin: 2rem;
+  text-align: center;
+  margin-top: 3rem;
 }
 
 .main-card {
   margin: 2rem auto;
   max-width: 500px;
-}
-
-.card-container {
-  margin: 2rem;
 }
 
 .bigger {
@@ -121,8 +117,7 @@ margin: 2rem;
 /*styles for the individual coffee page*/
 
 .coffee-title {
-  margin: 2rem auto;
-  margin-left: 1rem;
+  margin: 2rem auto 2rem 1rem;
 }
 
 .coffee-image {
@@ -141,5 +136,5 @@ margin: 2rem;
 
 .coffee-about {
   padding-top: 1rem;
-  margin: 1rem auto;
+  margin: auto 1rem;
 }
