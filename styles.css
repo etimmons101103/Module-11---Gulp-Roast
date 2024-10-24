@@ -142,8 +142,8 @@ h5 {
 
 .coffee-about {
   padding-top: 1rem;
-  margin: 0 1rem; 
 }
 
-
-
+.coffee-about-container {
+  padding: 0 1rem;
+}
